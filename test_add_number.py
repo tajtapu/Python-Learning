@@ -1,0 +1,7 @@
+print('input first number:')
+first=int(input())
+print('input second number:')
+second=int(input())
+print('input third number:')
+third=int(input())
+print('The sum is ' + str(first + second + third))
